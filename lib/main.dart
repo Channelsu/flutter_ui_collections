@@ -131,7 +131,7 @@ class HomePage extends StatelessWidget {
                               shape: RoundedRectangleBorder(
                                 borderRadius: BorderRadius.circular(40.0)
                               ),
-                              child: Text('ログイン', style: TextStyle(color: Colors.white, fontSize: 18, fontWeight: FontWeight.bold),),
+                              child: Text('はじめる', style: TextStyle(color: Colors.white, fontSize: 18, fontWeight: FontWeight.bold),),
                               color: Colors.blue,
                             ),
                           ),
