@@ -14,14 +14,6 @@ class HomePage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      // appBar: AppBar(
-      //   title: Text('夕焼け'),
-      //   backgroundColor: Colors.deepOrange,
-      //   leading: IconButton(icon: Icon(Icons.menu), onPressed: null),
-      //   actions: <Widget>[
-      //     Icon(Icons.settings)
-      //   ],
-      // ),
       body: Container(
         width: double.infinity,
         decoration: BoxDecoration(
