@@ -32,7 +32,7 @@ class _UiSampleListScreenState extends State<UiSampleListScreen> {
             Card(
               color: Colors.lightBlue[100],
               child: ExpansionTile(
-                title: Text('ボタン'),
+                title: Text('リスト'),
                 children: <Widget>[
                   InkWell(
                     onTap: (){},
@@ -70,7 +70,7 @@ class _UiSampleListScreenState extends State<UiSampleListScreen> {
             Card(
               color: Colors.lightBlue[100],
               child: ExpansionTile(
-                title: Text('レイアウト'),
+                title: Text('ログイン画面'),
                 children: <Widget>[
                   InkWell(
                     onTap: (){},
@@ -108,7 +108,7 @@ class _UiSampleListScreenState extends State<UiSampleListScreen> {
             Card(
               color: Colors.lightBlue[100],
               child: ExpansionTile(
-                title: Text('アニメーション'),
+                title: Text('設定'),
                 children: <Widget>[
                   InkWell(
                     onTap: (){},
